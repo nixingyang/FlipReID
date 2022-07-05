@@ -70,9 +70,9 @@ python3 -u solution.py --dataset_name "Market1501" --backbone_model_name "resnes
 
 | Dataset | Backbone | mAP | Weights |
 | - | - | - |- |
-| Market1501 | ResNeSt50 | 89.6 | [Link](https://tuni-my.sharepoint.com/:u:/g/personal/xingyang_ni_tuni_fi/EQo_hFaK_2xBiOkfiiTtePoBvdpO0Fkld-n5EnIgTvtfuw?e=HuM1P4) |
-| DukeMTMC_reID | ResNeSt50 | 81.5 | [Link](https://tuni-my.sharepoint.com/:u:/g/personal/xingyang_ni_tuni_fi/EUkbU8F-fMpIsL5Gm9Ou_6YBfgZ-YYJHM2omPeGp8iTIRA?e=MVTzLN) |
-| MSMT17 | ResNeSt50 | 68.0 | [Link](https://tuni-my.sharepoint.com/:u:/g/personal/xingyang_ni_tuni_fi/ERTVCkvo8P9OkJc76ae4QN8Bm1Iicu_FELlfG1r-7R0a5g?e=DkRBVr) |
+| Market1501 | ResNeSt50 | 89.6 | [Link](https://1drv.ms/u/s!Av-teFsyVR6Wjl8ukmZLB4D1BoGE) |
+| DukeMTMC_reID | ResNeSt50 | 81.5 | [Link](https://1drv.ms/u/s!Av-teFsyVR6WjmCrhd3tjKd-FcSP) |
+| MSMT17 | ResNeSt50 | 68.0 | [Link](https://1drv.ms/u/s!Av-teFsyVR6Wjl6WbcmC3cK7KBQy) |
 
 ## Acknowledgements
 
